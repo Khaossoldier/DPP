@@ -31,5 +31,3 @@
   2. Conception de la base de données
   3. Création du design
   4. Mise en place des tests unitaires
-
-6. 

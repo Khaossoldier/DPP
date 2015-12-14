@@ -1,13 +1,8 @@
 # Projet DPP
-# Contributors:
-## DUFLOS Nicolas
-## DELASSUS Alexandre
-## DYMENT Basile
-## AGUSTI Maxime
 
+Voici le travail réalisé par :
 
-###TO-DO LIST
-
-1) Rédaction des regles du jeu
-
-2) 5 Questions sur le metier de Concepteur Développeur Web
+#### DUFLOS Nicolas
+#### DELASSUS Alexandre
+#### DYMENT Basile
+#### AGUSTI Maxime
